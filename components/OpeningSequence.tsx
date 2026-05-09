@@ -36,8 +36,8 @@ export function OpeningSequence({ anime }: OpeningSequenceProps) {
       const cards = gsap.utils.toArray<HTMLElement>(".opening-card");
       const sweeps = gsap.utils.toArray<HTMLElement>(".opening-sweep");
 
-      // Timeline is tied to one pinned section so title reveals, card focus,
-      // blur removal, and light sweeps stay synchronized like an opening.
+      // Timeline tied to one pinned section so titles, cards, blur removal,
+      // and light sweeps stay synchronized like an anime opening.
       const timeline = gsap.timeline({
         scrollTrigger: {
           trigger: root,
@@ -95,7 +95,7 @@ export function OpeningSequence({ anime }: OpeningSequenceProps) {
       <div className="relative z-10 mx-auto grid w-full max-w-7xl gap-12 md:grid-cols-[0.9fr_1.1fr] md:items-center">
         <div>
           <p className="mb-5 text-xs font-semibold uppercase tracking-[0.42em] text-white/45">
-            Opening sequence
+            Séquence d'ouverture
           </p>
           <div className="space-y-3">
             {anime.map((item) => (

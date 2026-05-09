@@ -101,7 +101,7 @@ export function SummarySections({ anime }: SummarySectionsProps) {
 
             <div className="summary-copy">
               <p className="mb-5 text-xs font-semibold uppercase tracking-[0.42em] text-white/45">
-                Archive file 0{index + 1}
+                Dossier archive 0{index + 1}
               </p>
               <h2 className="text-5xl font-black uppercase leading-[0.9] text-white sm:text-7xl lg:text-8xl">
                 {item.title}

@@ -17,7 +17,7 @@ export function AnimeImage({
   return (
     <Image
       src={anime.image}
-      alt={`${anime.title} anime artwork`}
+      alt={`Illustration anime ${anime.title}`}
       fill
       priority={priority}
       sizes={sizes}

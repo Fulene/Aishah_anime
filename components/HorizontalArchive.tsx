@@ -87,7 +87,7 @@ export function HorizontalArchive({ anime }: HorizontalArchiveProps) {
           >
             <Image
               src={item.backgroundImage}
-              alt={`${item.title} cinematic background`}
+              alt={`Fond cinématographique ${item.title}`}
               fill
               quality={92}
               sizes="(min-width: 768px) 100vw, 92vw"
@@ -102,7 +102,7 @@ export function HorizontalArchive({ anime }: HorizontalArchiveProps) {
             />
             <div className="panel-copy absolute bottom-8 left-6 right-6 max-w-3xl sm:bottom-12 sm:left-10 md:bottom-16 md:left-16">
               <p className="mb-4 text-xs font-semibold uppercase tracking-[0.42em] text-white/52">
-                World panel
+                Monde archive
               </p>
               <h2 className="text-5xl font-black uppercase leading-none text-white sm:text-7xl lg:text-8xl">
                 {item.title}

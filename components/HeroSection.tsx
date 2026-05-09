@@ -107,13 +107,13 @@ export function HeroSection({ anime }: HeroSectionProps) {
 
       <div className="hero-copy relative z-10 mx-auto flex w-full max-w-7xl flex-col justify-end px-6 pb-24 pt-32 sm:px-10 lg:px-12">
         <p className="mb-5 text-xs font-semibold uppercase tracking-[0.48em] text-white/54">
-          Premium anime archive
+          Archive anime premium
         </p>
         <h1 className="max-w-5xl text-6xl font-black uppercase leading-[0.85] text-white sm:text-8xl lg:text-[10rem]">
-          Anime Archives
+          Archives Anime
         </h1>
         <p className="mt-8 max-w-2xl text-lg text-white/70 sm:text-2xl">
-          Five worlds. Five stories. One cinematic scroll.
+          Cinq mondes. Cinq histoires. Un scroll cinématographique.
         </p>
       </div>
     </section>

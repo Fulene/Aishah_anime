@@ -8,8 +8,8 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Anime Archives",
-  description: "Five worlds. Five stories. One cinematic scroll.",
+  title: "Archives Anime",
+  description: "Cinq mondes. Cinq histoires. Un scroll cinématographique.",
 };
 
 export default function RootLayout({
@@ -18,7 +18,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="fr">
       <body className={geist.className}>{children}</body>
     </html>
   );

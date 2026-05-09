@@ -14,10 +14,10 @@ export const animeList: Anime[] = [
   {
     slug: "boruto",
     title: "Boruto",
-    punchline: "Legacy is only the beginning.",
-    tags: ["Ninja", "Legacy", "Sci-fi"],
+    punchline: "L'héritage n'est que le commencement.",
+    tags: ["Ninja", "Héritage", "Sci-fi"],
     summary:
-      "The story follows Boruto Uzumaki, son of Naruto, as he grows up in a more peaceful ninja world shaped by technology and legacy. He must find his own path while facing threats that challenge everything inherited from the previous generation.",
+      "L'histoire suit Boruto Uzumaki, fils de Naruto, alors qu'il grandit dans un monde ninja plus paisible, façonné par la technologie et l'héritage. Il doit trouver sa propre voie face à des menaces qui remettent en question tout ce que la génération précédente lui a transmis.",
     image: "https://myanimelist.net/images/anime/1091/99847l.jpg",
     backgroundImage: "https://images6.alphacoders.com/817/thumb-1920-817360.png",
     accent: "#34d399",
@@ -26,10 +26,10 @@ export const animeList: Anime[] = [
   {
     slug: "my-hero-academia",
     title: "My Hero Academia",
-    punchline: "Power is earned before it is inherited.",
-    tags: ["Heroes", "School", "Superpowers"],
+    punchline: "Le pouvoir se mérite avant de s'hériter.",
+    tags: ["Héros", "Académie", "Super-pouvoirs"],
     summary:
-      "In a world where most people are born with superpowers called Quirks, Izuku Midoriya dreams of becoming a hero despite being born powerless. His journey begins when he inherits a legendary power and enters a school built to train the next generation of heroes.",
+      "Dans un monde où la plupart des humains naissent avec des super-pouvoirs appelés Alters, Izuku Midoriya rêve de devenir un héros malgré son absence de pouvoir. Son parcours commence lorsqu'il hérite d'une force légendaire et intègre une école conçue pour former la prochaine génération de héros.",
     image: "https://myanimelist.net/images/anime/10/78745l.jpg",
     backgroundImage: "https://images8.alphacoders.com/817/thumb-1920-817884.png",
     accent: "#f59e0b",
@@ -38,10 +38,10 @@ export const animeList: Anime[] = [
   {
     slug: "death-note",
     title: "Death Note",
-    punchline: "Justice becomes the perfect crime.",
-    tags: ["Psychological", "Mystery", "Supernatural"],
+    punchline: "La justice devient le crime parfait.",
+    tags: ["Psychologique", "Mystère", "Surnaturel"],
     summary:
-      "Light Yagami discovers a mysterious notebook that can kill anyone whose name is written inside. As he tries to reshape the world according to his own sense of justice, a brilliant detective known as L begins a psychological battle to stop him.",
+      "Light Yagami découvre un mystérieux carnet capable de tuer toute personne dont le nom y est inscrit. Alors qu'il tente de remodeler le monde selon sa propre vision de la justice, un brillant détective connu sous le nom de L engage un duel psychologique pour l'arrêter.",
     image: "https://myanimelist.net/images/anime/1079/138100l.jpg",
     backgroundImage: "https://images8.alphacoders.com/806/thumb-1920-806525.jpg",
     accent: "#ef4444",
@@ -50,10 +50,10 @@ export const animeList: Anime[] = [
   {
     slug: "spy-x-family",
     title: "Spy x Family",
-    punchline: "Every secret needs a home.",
-    tags: ["Espionage", "Comedy", "Family"],
+    punchline: "Chaque secret a besoin d'un foyer.",
+    tags: ["Espionnage", "Comédie", "Famille"],
     summary:
-      "A master spy must build a fake family to complete a critical mission, unaware that his new wife is an assassin and his adopted daughter can read minds. The result is a mix of espionage, comedy, action and unexpectedly wholesome family moments.",
+      "Un espion d'élite doit fonder une fausse famille pour mener à bien une mission critique, sans savoir que sa nouvelle épouse est une tueuse à gages et que sa fille adoptive peut lire dans les pensées. Le résultat mélange espionnage, comédie, action et moments familiaux étonnamment tendres.",
     image: "https://myanimelist.net/images/anime/1441/122795l.jpg",
     backgroundImage: "https://images.alphacoders.com/133/thumb-1920-1336935.jpeg",
     accent: "#f472b6",
@@ -62,10 +62,10 @@ export const animeList: Anime[] = [
   {
     slug: "demon-slayer",
     title: "Demon Slayer",
-    punchline: "Compassion sharpened into a blade.",
-    tags: ["Dark Fantasy", "Action", "Historical"],
+    punchline: "La compassion aiguisée comme une lame.",
+    tags: ["Dark fantasy", "Action", "Historique"],
     summary:
-      "Tanjiro Kamado becomes a demon slayer after his family is slaughtered and his sister Nezuko is turned into a demon. His journey is driven by compassion, discipline and the hope of finding a way to make her human again.",
+      "Tanjiro Kamado devient pourfendeur de démons après le massacre de sa famille et la transformation de sa soeur Nezuko en démon. Son voyage est porté par la compassion, la discipline et l'espoir de trouver un moyen de lui rendre son humanité.",
     image: "https://myanimelist.net/images/anime/1286/99889l.jpg",
     backgroundImage: "https://images2.alphacoders.com/106/thumb-1920-1065611.png",
     accent: "#38bdf8",
